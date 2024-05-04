@@ -46,7 +46,7 @@ void set::remove(int x)
     for(int j=ele;j<n-1;j++) {
         s[j]=s[j+ 1];
 
-    n--;} 
+    } n--;
     cout<<"removed !";
     }  
 }
